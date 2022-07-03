@@ -5,3 +5,36 @@ body, p, h1, h2, input, textarea {
     margin: 0;
     font-family: Roboto;
 }
+
+h2 {
+    font-size: 30px;
+}
+
+/* navbar */
+#navbar {
+    background-color: #ed1e24; /* red */
+    color: #fff;
+    padding: 0 15px;
+    height: 60px;
+}
+
+#navbar h2, #navbar ul, #navbar-list li {
+    display: inline-block;
+}
+
+#navbar h2 {
+    margin: 0;
+    line-height: 60px;
+    margin-left: 55px;
+}
+
+#navbar img {
+    height: 40px;
+    transform: rotate(45deg);
+    position: absolute;
+    top: 10px;
+}
+
+
+
+
