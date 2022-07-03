@@ -1,2 +1,7 @@
 @charset "UTF-8"; 
 
+/* geral */
+body, p, h1, h2, input, textarea {
+    margin: 0;
+    font-family: Roboto;
+}
