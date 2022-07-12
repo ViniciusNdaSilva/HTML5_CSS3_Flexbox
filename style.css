@@ -142,5 +142,10 @@ h2 {
 }
 
 .skills-container h3 {
-    
+    color: #ed1e24;
+    font-size: 20px;
+}
+
+.skills-container img {
+    height: 60px;
 }
